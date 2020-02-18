@@ -11,11 +11,19 @@ https://github.com/MichaelLLi/Text_Normalization
 
 
 ## Converts text into the spoken forms of the following:
+
 -Units
+
 -Numbers (Cardinal, Ordinal, Decimals)
+
 -Date 
+
 -Money/Currency
+
 -Acronyms
+
 -Single Alphabets
+
 -Websites
+
 -Phone Numbers
